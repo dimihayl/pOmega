@@ -1,4 +1,4 @@
-#include "pOmega_Dimi.h"
+#include "pOmega_paths.h"
 #include "pOmega_1.h"
 
 #include "CATS.h"
